@@ -1,1 +1,1 @@
-- Hi, I'm tokah. This is my first script. Ever. I'm currently learning everything IT. My goal is the Cybersecurity Sector. I look forward to any knowledge I receive along the way to help me on my Journey.
+- Hi, I'm tokah. This is my first project. Ever. I'm currently learning everything IT. My goal is the Cybersecurity Sector. I look forward to any knowledge I receive along the way to help me on my Journey.
